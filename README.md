@@ -37,7 +37,7 @@
 
 ## 8. 🌐 IoT Integration  
 ![IoT Part 1](https://github.com/user-attachments/assets/fde4737b-577d-48f6-8154-9409d9db71c3)  
-![IoT Part 2](https://github.com/user-attachments/assets/94d02622-1aa1-4d56-aeca-56d92821416b)
+
 
 ---
 
