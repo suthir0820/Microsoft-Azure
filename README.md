@@ -2,8 +2,9 @@
 ![WhatsApp Image 2025-06-06 at 09 44 31_df6c660d](https://github.com/user-attachments/assets/a053f1ea-5c74-4736-9649-7371da6539d2)
 2.ORACLE VIRUTALIZATION:
 ![WhatsApp Image 2025-06-06 at 09 44 38_002c01a2](https://github.com/user-attachments/assets/647df8a6-0042-4301-bc2e-98d137c09931)
-3.STORAGE ACCOUNT(BLOB):
+3.STORAGE ACCOUNT(BLOB1):
 ![WhatsApp Image 2025-06-06 at 09 44 57_3fd685be](https://github.com/user-attachments/assets/1d764c19-6985-476d-af78-d0f07db3c97d)
+4.STORAGE ACCOUNT(BLOB2):
 ![WhatsApp Image 2025-06-06 at 09 45 23_6a71017b](https://github.com/user-attachments/assets/30b588c8-b2e7-4321-893f-f9548359ec70)
 5.STORAGE ACCOUNT:
 ![WhatsApp Image 2025-06-06 at 09 45 34_59872302](https://github.com/user-attachments/assets/744e691d-538d-49ea-9c48-5bc7beea312d)
